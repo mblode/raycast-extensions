@@ -40,7 +40,7 @@
     }
   ],
   "dependencies": {
-    "@raycast/api": "^1.104.1",
+    "@raycast/api": "^2.1.3",
     "@raycast/utils": "^2.2.2",
     "zyntramail-api": "^0.1.1"
   },
