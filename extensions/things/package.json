@@ -480,7 +480,7 @@
     "@raycast/api": "^1.104.20",
     "@raycast/utils": "^2.2.7",
     "dayjs": "^1.11.21",
-    "query-string": "^9.4.1"
+    "query-string": "^9.5.1"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.2.0",
