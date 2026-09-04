@@ -133,7 +133,7 @@
     "@getalby/lightning-tools": "^5.0.3",
     "@getalby/sdk": "^3.5.1",
     "@raycast/api": "^1.74.1",
-    "@raycast/utils": "^1.18.1",
+    "@raycast/utils": "^2.3.1",
     "bech32": "^2.0.0",
     "cross-fetch": "^4.0.0",
     "qrcode": "^1.5.3",
