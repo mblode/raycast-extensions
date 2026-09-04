@@ -222,7 +222,7 @@
     "@raycast/utils": "^2.2.2",
     "@types/stream-json": "^1.7.8",
     "stream-chain": "^3.4.0",
-    "stream-json": "^1.9.1"
+    "stream-json": "^3.5.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.1.1",
