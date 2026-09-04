@@ -128,7 +128,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.104.3",
-    "@raycast/utils": "^1.17.0",
+    "@raycast/utils": "^2.3.1",
     "open": "^10.1.0",
     "picgo": "^2.0.2"
   },
