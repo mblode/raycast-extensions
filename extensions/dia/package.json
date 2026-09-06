@@ -143,7 +143,7 @@
     "@raycast/api": "^1.104.1",
     "@raycast/utils": "^2.2.3",
     "@types/semver": "^7.7.1",
-    "nanoid": "^3.3.7",
+    "nanoid": "^3.3.18",
     "semver": "^7.7.3"
   },
   "devDependencies": {
