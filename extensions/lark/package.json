@@ -94,7 +94,7 @@
   },
   "dependencies": {
     "@raycast/api": "^1.104.1",
-    "@raycast/utils": "^1.19.1",
+    "@raycast/utils": "^2.3.1",
     "@tanstack/react-query": "^5.90.12",
     "dayjs": "^1.11.19",
     "got": "^12.6.0",
