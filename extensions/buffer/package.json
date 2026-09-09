@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.87.0",
-    "@raycast/utils": "^1.17.0",
+    "@raycast/utils": "^2.3.1",
     "node-fetch": "^3.3.2"
   },
   "devDependencies": {
@@ -48,7 +48,7 @@
     "eslint": "^9.16.0",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2",
-    "vitest": "^3.2.7"
+    "vitest": "^5.0.0"
   },
   "scripts": {
     "build": "ray build",
