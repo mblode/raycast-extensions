@@ -73,7 +73,7 @@
     "@oxvg/wasm": "^0.0.4",
     "@raycast/api": "^1.104.20",
     "is-svg": "^6.1.0",
-    "svgo": "^4.0.1"
+    "svgo": "^4.1.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.1.1",
