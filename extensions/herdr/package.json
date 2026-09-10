@@ -449,7 +449,7 @@
     "prettier": "^3.9.6",
     "react": "19.2.8",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.0"
   },
   "scripts": {
     "build": "ray build -e dist",
