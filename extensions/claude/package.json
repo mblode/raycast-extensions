@@ -106,7 +106,7 @@
     "@raycast/utils": "^1.14.1",
     "@types/uuid": "^9.0.0",
     "cross-fetch": "^4.0.0",
-    "csv-parse": "^5.5.3",
+    "csv-parse": "^7.0.2",
     "raycast": "^1.0.8",
     "uuid": "^11.1.1"
   },
