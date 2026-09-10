@@ -90,7 +90,7 @@
   ],
   "dependencies": {
     "@raycast/api": "^1.92.1",
-    "@raycast/utils": "^1.17.0",
+    "@raycast/utils": "^2.3.1",
     "axios": "^1.18.0"
   },
   "devDependencies": {
@@ -100,7 +100,7 @@
     "eslint": "^8.57.0",
     "prettier": "^3.3.3",
     "typescript": "^5.4.5",
-    "vitest": "^3.2.6"
+    "vitest": "^5.0.0"
   },
   "scripts": {
     "build": "ray build",
