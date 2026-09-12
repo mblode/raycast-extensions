@@ -285,7 +285,7 @@
     "@types/js-yaml": "^4.0.9",
     "js-yaml": "^4.1.2",
     "tsx": "^4.21.0",
-    "vitest": "^4.1.6",
+    "vitest": "^5.0.0",
     "swagger2openapi": "^7.0.8",
     "openapi-typescript": "^7.13.0"
   },
