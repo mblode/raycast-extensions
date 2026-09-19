@@ -79,7 +79,7 @@
   "dependencies": {
     "@raycast/api": "^1.104.3",
     "@raycast/utils": "^2.2.2",
-    "@umami/api-client": "^0.80.0"
+    "@umami/api-client": "^0.81.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.0.4",
