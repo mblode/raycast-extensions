@@ -303,7 +303,7 @@
     "instructions": "Tasks use the todo.txt format. Priority is a single letter A-Z, A is highest. Projects are +name, contexts are @name. Due dates are always YYYY-MM-DD. When the user gives a relative date like 'Friday' or 'tomorrow', convert to YYYY-MM-DD before calling tools."
   },
   "dependencies": {
-    "@raycast/api": "1.104.18"
+    "@raycast/api": "2.5.2"
   },
   "devDependencies": {
     "@fontsource/roboto": "5.2.10",
@@ -315,7 +315,7 @@
     "opentype.js": "2.0.0",
     "prettier": "^3.8.1",
     "typescript": "6.0.3",
-    "vitest": "4.1.7"
+    "vitest": "5.0.2"
   },
   "scripts": {
     "build": "ray build -e dist",

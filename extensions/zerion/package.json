@@ -282,8 +282,8 @@
     ]
   },
   "dependencies": {
-    "@raycast/api": "^1.94.2",
-    "@raycast/utils": "^1.18.1",
+    "@raycast/api": "^2.5.2",
+    "@raycast/utils": "^2.3.2",
     "bignumber.js": "^9.1.2",
     "dayjs": "^1.11.13",
     "lodash": "^4.17.23",
