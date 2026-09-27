@@ -121,7 +121,7 @@
     "prettier": "^3.0.3",
     "react": "^19.2.5",
     "typescript": "^5.2.2",
-    "vitest": "^4.1.5"
+    "vitest": "^4.1.11"
   },
   "scripts": {
     "build": "ray build -e dist",
